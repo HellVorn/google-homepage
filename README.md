@@ -1,1 +1,1 @@
-This is basically a clone of the Google homepage. 
+This is basically a clone of the Google homepage. It's not very impressive and does absolutely nothing and it's just a practice project where I reviewed how to center certain elements on the page and how to make a simple navbar and footer. 
